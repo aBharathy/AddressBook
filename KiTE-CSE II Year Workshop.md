@@ -7,13 +7,14 @@
 |Day 3 (23/12/2016)|MySQL Connectivity| Ms. Bharathy|
 
 
- Demonstration in Android is planned in next week when the lab will be available. Date is yet to be Confirmed.<br><br>
-Students will be advised to proceed further to take the challenge of  "Search" option  given by Mr.Ashok M.D.
+ 
+Students are advised to take initiative and  explore further.
 
-<****Supporting Faculties</bold><br>
+####Supporting Faculties<br>
 Mr. Nandha Kumar<br>
 Ms. Mohana Lakshmi<br>
 Ms. Presiila<br>
+Ms. Suganthi<br>
 Ms. Shanthini<br>
 Mr. Vivekanandhan<br>
 Ms. Tini <br>
